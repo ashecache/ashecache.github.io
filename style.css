@@ -1,7 +1,8 @@
-p {
+h1 {
     font-family: monospace;
-    font-size: medium;
+    font-size: larger;
     color: white;
+    font-weight: bolder;
 }
 
 body {
