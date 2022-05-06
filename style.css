@@ -1,8 +1,9 @@
 p {
     font-family: monospace;
-    font-size: larger;
+    font-size: 30px;
     color: white;
     font-weight: bolder;
+    padding: 0px 0px 0px 30px;
 }
 
 body {
